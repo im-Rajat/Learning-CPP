@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651049807 source:c:\users\rajatkumar\documents\codingpractice\deep_dive_in_cpp\section 23 - stl\stl_map\main.cpp
+	<iostream>
+	<map>
+
